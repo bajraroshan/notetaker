@@ -1,4 +1,4 @@
-# Team Profile Generator
+# Note Taker
 
 ![License](https://img.shields.io/badge/Licence-MIT-blue)
 
