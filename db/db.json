@@ -1,6 +1,11 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "First Note",
+        "text": "This is the first note from Author Roshan Bajracharya.\n",
+        "id": "220c52e7-c226-4066-93aa-b141218d3ee1"
     }
 ]
